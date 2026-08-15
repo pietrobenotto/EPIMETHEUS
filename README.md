@@ -39,7 +39,11 @@ pip install .
 import epimetheus as epi
 ```
 
-Two working example are provided in the exaples folder
+Two working example of EPIMETHEUS are provided in the exaples folder
+
+## HST and JWST ePSFs relase
+
+In the ePSFs folder, we release the ePSF for many HST filter and all JWST/NIRCam ones. We computed the ePSF using the data from the COSMOS, UDS, GOODS-S and Abell 2744 fields simultaneously.
 
 ## License
 

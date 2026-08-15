@@ -1,8 +1,7 @@
 # EPIMETHEUS
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-readthedocs-blue)](https://your-package.readthedocs.io)
 
 *Effective Psf Inferred from Mosaics using an Estimation Technique for Heterogeneous Exposures to get a Unique PSF across the Sensor field*
 
@@ -40,7 +39,7 @@ pip install .
 import epimetheus as epi
 ```
 
-A working example in a jupyter notebook is provided in examples folder
+Two working example are provided in the exaples folder
 
 ## License
 

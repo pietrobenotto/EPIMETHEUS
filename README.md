@@ -5,6 +5,8 @@
 
 *Effective PSF Inferred from Mosaics using an Estimation Technique for Heterogeneous Exposures to get a Unique PSF across the Sensor field*
 
+For any information or help in using the software, please contact pietro.benotto@inaf.it
+
 ## Features
 
 - Extraction: Source extraction and star selection in one or multiple images
@@ -54,19 +56,18 @@ This project is licensed under the MIT License.
 If you use this package in your research, please cite:
 
 ```bibtex
-@ARTICLE{Benotto:2026,
+@ARTICLE{2026A&A...714A.511B,
        author = {{Benotto}, Pietro and {Vulcani}, Benedetta and {Altomonte}, Vittoria},
-        title = "{EPIMETHEUS: Effective PSF inferred from mosaics}",
-      journal = {arXiv e-prints},
-     keywords = {Instrumentation and Methods for Astrophysics, Astrophysics of Galaxies},
+        title = "{EPIMETHEUS: Effective point spread function inferred from mosaics}",
+      journal = {\aap},
+     keywords = {techniques: image processing, techniques: photometric},
          year = 2026,
-        month = sep,
-          eid = {arXiv:2609.26879},
-        pages = {arXiv:2609.26879},
-archivePrefix = {arXiv},
-       eprint = {2609.26879},
- primaryClass = {astro-ph.IM},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2026arXiv260926879B},
+        month = oct,
+       volume = {714},
+          eid = {A511},
+        pages = {A511},
+          doi = {10.1051/0004-6361/202660382},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2026A&A...714A.511B},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
